@@ -3,7 +3,7 @@ keywords:
 Copyright: © 2021 Ranchan Ran
 ---
 
-# title
+# Ranchan:　Ruler of the darkness or Messenger of the light
 
-Write contents here.
+There was a cat, that is Ranchan. 
 
