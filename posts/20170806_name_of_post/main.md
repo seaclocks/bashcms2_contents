@@ -8,4 +8,4 @@ Copyright: © 2021 Ranchan Ran
 ### There was a cat, that is Ranchan. 
 No cat is like Ranchan, and Ranchan is not like any cats.
 
-#### I used to be the one who bullied.Now  I'm the one being bullied.
+#### I used to be the one who bullied. Now I'm the one being bullied.
